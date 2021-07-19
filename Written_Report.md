@@ -58,6 +58,8 @@ When the demand is very high, more drivers would choose to enter the market to f
 ## III. Summary
 
 ### Three business recommendations to the CEO for addressing any disparities among the city types.
- 1. 1
- 2. 2
- 3. 3
+1.	From above result we can see that the app users do travel between urban, suburban and rural area. For example, suburban/rural users travel to urban/suburban for vacation trips and urban users return to suburban/rural for holiday. We can utilize this trend to drive up the demand and number of users in rural area. When rural users using the apps in urban, we can offer promotions such as credits or free miles for future use. This way, rural users may remain active after returning homes in rural to use the credits and free miles.
+2.	Both Average Fare per Ride and Average Fare per Driver are the lowest among the three. It seems that the Total Rides in urban will stay high and will not drop much by pricing change. We can consider increasing urban fare slightly and combine with promotions periodically. This way, it should be effective to both increase fare and keep users active.
+3.	Average Ride per Driver is calculated by Total Rides / Total Drivers. This is where we can see whether there are enough drivers and whether we should adjust the number of drivers. In urban, per driver gets 0.676 ride in average, 1.276 rides in suburban and 1.602 rides in rural. Users may choose not to get a ride due to lack of drivers available. Therefore, we can come up with benefits for drivers in rural (and suburban) area to encourage more people to become a drive for the app. For example, lower commission payment to the app. 
+
+
