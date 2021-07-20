@@ -32,7 +32,7 @@ We will use above deliverables to analyze and summarize how the performance diff
 
 ### Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-![pyber_summary_df](https://user-images.githubusercontent.com/84211948/126138749-e2ad91ec-0233-496c-bdbd-a7a853ec91dc.png)
+   ![pyber_summary_df](https://user-images.githubusercontent.com/84211948/126138749-e2ad91ec-0233-496c-bdbd-a7a853ec91dc.png)
 
   - **Total Rides**
     Urban has a significantly higher number of total rides than suburban and rural does. Urban has 1,625 rides, while suburban has 625 rides and rural only has 125 rides. Urban has 2.6 times more rides than suburban does, and 13 times more than rural does. The reason behind this result could be that almost all households in rural area have at least one vehicle and the demand of ride sharing is very low. On the other hand, only partial residents in cities have cars and there are many travelers visiting cities without cars as well, so that the demand of car rides is very high.
@@ -52,7 +52,7 @@ We will use above deliverables to analyze and summarize how the performance diff
   - **Total Fare by City Type**
   ![PyBer_fare_summary](https://user-images.githubusercontent.com/84211948/126138848-a2e89d66-00d3-4cd0-a53e-638f1d25fbe8.png)
 
-  The figure above is a multiple-line graph that shows the total fares for each city type by weeks from January to April 2019. We can see from the graph that urban overall has the highest total fare, range around $1600 to $2500. Suburban’s total fare remains in the middle, with a range from around $700 to $1400. Rural area has the lowest total fare during this period, from $500 to $60. Urban and suburban both has lowest fare during the first week of January, possibly due to holiday that a large number of urban and suburban residents returned to rural hometown. All of the three types of city have peaks during the week of 2019-02-24, possibly because of a promotion.
+    The figure above is a multiple-line graph that shows the total fares for each city type by weeks from January to April 2019. We can see from the graph that urban overall has the highest total fare, range around $1600 to $2500. Suburban’s total fare remains in the middle, with a range from around $700 to $1400. Rural area has the lowest total fare during this period, from $500 to $60. Urban and suburban both has lowest fare during the first week of January, possibly due to holiday that a large number of urban and suburban residents returned to rural hometown. All of the three types of city have peaks during the week of 2019-02-24, possibly because of a promotion.
   
 ## III. Summary
 
